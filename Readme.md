@@ -1,1 +1,1 @@
-This Repository consits of node js topics and the complete course practice of maximillian and manuel from academind and Jonas from portugal.
+## This Repository consit of the code which is done to make my skills to the next level and for the company also :)
